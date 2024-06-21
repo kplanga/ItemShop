@@ -2,55 +2,55 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_123_Athena_Commando_F_Metal"
+            "AthenaCharacter:CID_452_Athena_Commando_F_CyberFu"
         ],
         "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_049_Metal"
+            "AthenaPickaxe:Pickaxe_ID_226_CyberFuBlade"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_259_Athena_Commando_M_StreetOps"
+            "AthenaCharacter:CID_527_Athena_Commando_F_StreetFashionRed"
         ],
-        "price": 1500
+        "price": 1200
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_DreamFeet"
+            "AthenaDance:EID_CrissCross"
         ],
         "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_078_SlurpJuice"
+            "AthenaDance:EID_MakeItRain"
         ],
-        "price": 700
+        "price": 500
     },
     "daily6": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_073_Medic"
+            "AthenaGlider:Glider_ID_095_Witch"
         ],
-        "price": 800
+        "price": 1200
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"
+            "AthenaCharacter:CID_423_Athena_Commando_F_Painter"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_716_Athena_Commando_M_BlueFlames"
+            "AthenaCharacter:CID_424_Athena_Commando_M_Vigilante"
         ],
-        "price": 1200
+        "price": 1500
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_370_BlueFlames"
+            "AthenaPickaxe:Pickaxe_ID_328_GalileoRocket_SNC0L"
         ],
         "price": 800
     }
